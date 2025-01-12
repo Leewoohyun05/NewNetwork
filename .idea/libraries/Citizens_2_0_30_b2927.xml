@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="Citizens-2.0.30-b2927">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../../NewNetwork/plugins/Citizens-2.0.30-b2927.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../NewNetwork/plugins/CoreProtect-22.4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../NewNetwork/plugins/LuckPerms-Bukkit-5.4.152.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../NewNetwork/plugins/Vault.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

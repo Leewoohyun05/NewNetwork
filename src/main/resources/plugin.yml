@@ -1,0 +1,4 @@
+name: NewNetwork
+version: '1.0-SNAPSHOT'
+main: com.github.HuMa12570.newNetwork.NewNetwork
+api-version: '1.18.2'
